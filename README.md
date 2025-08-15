@@ -13,7 +13,6 @@ The design is optimized for desktop, tablet, and mobile devices.
 ## 🚀 Features
 - 🌆 Full-screen hero section with a background image and gradient overlay
 - 📜 Clean and minimal navigation bar
-- 🎯 Call-to-action button ("Book Your Trip")
 - 📱 Fully responsive design for mobile, tablet, and desktop
 - 🎨 Hover effects for links and buttons
 - 🎭 Bottom gradient overlay for better text visibility
